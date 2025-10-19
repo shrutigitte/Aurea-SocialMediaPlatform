@@ -3,8 +3,6 @@
 Aurea is a **full-stack social media platform** built with **Next.js**, **Supabase**, and **Tailwind CSS**, designed to enable seamless real-time interaction between users.  
 It combines a **modern, minimal UI** with **powerful backend features** like authentication, post management, chat, and real-time notifications — all in one app.
 
-![Aurea Banner](./public/banner.png)
-
 ---
 
 ## 🚀 Features
